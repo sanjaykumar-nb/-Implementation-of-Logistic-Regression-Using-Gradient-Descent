@@ -19,8 +19,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: RATHEESH KUMAR B R
-RegisterNumber:  212223110040
+Developed by: SANJAYKUMAR N B 
+RegisterNumber:  212223230189
 */
 import pandas as pd
 import numpy as np
